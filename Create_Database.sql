@@ -1,0 +1,1 @@
+CREATE DATABASE Real_estate;
